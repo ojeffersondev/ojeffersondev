@@ -6,7 +6,7 @@
 
 <br>
 
-![Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,kotlin,swift,gcp,cloudflare,docker,figma,js,ts,react,bun,vite,nodejs,nest,supabase,postgres,git&perline=10)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,swift,kotlin,gcp,cloudflare,docker,figma,js,ts,react,bun,vite,nodejs,nest,supabase,postgres,git&perline=10)
 <br>
 
 <br>
