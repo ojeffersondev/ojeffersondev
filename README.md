@@ -4,7 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=60FFCA&center=true&vCenter=true&width=435&lines=Jefferson+Pessoa.;+Software+Engineer+|+Full+Stack." alt="Typing SVG" /></a>
 </div>
 
-[![Minhas Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,postgres,docker,git,js,ts,react,vite,nodejs,nestjs,figma&perline=8)](https://skillicons.dev)
+<div align="center">
+[![Minhas Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,postgres,docker,git,js,ts,react,vite,bun,nodejs,nestjs,figma&perline=8)](https://skillicons.dev)
+</div>
 
 <div align= "center" > 
   <a href = "mailto:jefferson@kips.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
