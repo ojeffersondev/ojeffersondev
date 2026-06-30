@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-  [![Minhas Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,postgres,docker,git,js,ts,react,vite,bun,nodejs,nestjs,figma&perline=8)]
+  ![Minhas Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,postgres,docker,git,js,ts,react,vite,bun,nodejs,nestjs,figma&perline=8)
 </div>
+
+##
 
 <div align= "center" > 
   <a href = "mailto:jefferson@kips.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
