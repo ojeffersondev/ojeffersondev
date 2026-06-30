@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-[![Minhas Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,postgres,docker,git,js,ts,react,vite,bun,nodejs,nestjs,figma&perline=8)](https://skillicons.dev)
+  [![Minhas Skills]](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,postgres,docker,git,js,ts,react,vite,bun,nodejs,nestjs,figma&perline=8)]
 </div>
 
 <div align= "center" > 
