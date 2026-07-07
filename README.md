@@ -6,7 +6,7 @@
 #####
 
 <div align="center">
-  ![Minhas Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,postgres,docker,git,js,ts,react,vite,bun,nodejs,nestjs,figma&perline=8)
+  ![Minhas Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,docker,postgres,git,js,ts,react,bun,vite,nodejs,nestjs,figma&perline=8)
 </div>
 
 ######
