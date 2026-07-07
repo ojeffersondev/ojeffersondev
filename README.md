@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Jefferson;Software+Engineer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Jefferson;Software+Engineer+|+Full+Stack!)](https://git.io/typing-svg)
 
 <br>
 
