@@ -1,12 +1,13 @@
+####
 <div align="center">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Jefferson;Software+Engineer+|+Full+Stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Jefferson+Pessoa.;Software+Engineer+|+Full+Stack!)](https://git.io/typing-svg)
 
 <br>
 
-![Skills](https://skillicons.dev/icons?i=dart,flutter,go,wasm,cloudflare,docker,postgres,git,js,ts,react,bun,vite,nodejs,nest,figma&perline=8)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,go,swift,wasm,docker,postgres,gradle,js,ts,react,bun,nest,figma,prisma,git&perline=8)
 <br>
 
 <br>
