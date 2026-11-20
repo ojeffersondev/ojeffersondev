@@ -5,7 +5,7 @@
 <img src="./assets/typing.svg" width="1000" height="60" alt="Hello! I'm Jefferson Pessoa. Software Engineer | Full Stack!" />
 
 <br>
-
+<br>
 <p>
   <img src="./assets/icons/dart.svg" width="48" height="48" alt="Dart" />
   <img src="./assets/icons/flutter.svg" width="48" height="48" alt="Flutter" />
