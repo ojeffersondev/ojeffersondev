@@ -14,8 +14,8 @@
   <img src="./assets/icons/dioxus.svg" width="48" height="48" alt="Dioxus" />
   <img src="./assets/icons/leptos.svg" width="48" height="48" alt="Leptos" />
   <img src="./assets/icons/tokio.svg" width="48" height="48" alt="Tokio" />
-  <br>
   <img src="https://skillicons.dev/icons?i=wasm" width="48" height="48" alt="WebAssembly" />
+  <br>
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
