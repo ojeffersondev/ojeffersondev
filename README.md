@@ -1,4 +1,3 @@
-####
 <div align="center">
 
 <br>
@@ -7,8 +6,24 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,go,rust,wasm,docker,postgres,redis,nginx,cloudflare,firebase,actix,tauri,sentry,grafana,prometheus&perline=8)](https://skillicons.dev)
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+  <img src="./assets/icons/dioxus.svg" width="48" height="48" alt="Dioxus" />
+  <img src="./assets/icons/leptos.svg" width="48" height="48" alt="Leptos" />
+  <img src="./assets/icons/tokio.svg" width="48" height="48" alt="Tokio" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=wasm" width="48" height="48" alt="WebAssembly" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+</p>
 
 <br>
 
@@ -19,4 +34,3 @@
 <br>
 
 </div>
-
