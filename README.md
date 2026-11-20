@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffffff&size=34&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Jefferson+Pessoa.;Software+Engineer+|+Full+Stack!)](https://git.io/typing-svg)
+<img src="./assets/typing.svg" width="1000" height="60" alt="Hello! I'm Jefferson Pessoa. Software Engineer | Full Stack!" />
 
 <br>
 
@@ -27,9 +27,9 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:jefferson@kips.tech)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ojeffersondev)
-[![Discord](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discordapp.com/channels/@me/1265306725439766609)
+[![Gmail](./assets/badges/gmail.svg)](mailto:jefferson@kips.tech)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/ojeffersondev)
+[![Discord](./assets/badges/discord.svg)](https://discordapp.com/channels/@me/1265306725439766609)
 
 <br>
 
