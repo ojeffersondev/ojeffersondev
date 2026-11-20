@@ -7,7 +7,7 @@
 
 <br>
 
-![Skills](https://skillicons.dev/icons?i=dart,flutter,rust,go,wasm,docker,postgres,gradle,,js,ts,react,bun,grafana,prometheus&perline=8)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,go,rust,wasm,docker,postgres,redis,nginx,cloudflare,firebase,actix,tauri,sentry,grafana,prometheus&perline=8)](https://skillicons.dev)
 <br>
 
 <br>
